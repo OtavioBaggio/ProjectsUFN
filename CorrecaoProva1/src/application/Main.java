@@ -9,7 +9,7 @@ import entities.Produto;
 public class Main {
 
 	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
+	Scanner sc = new Scanner(System.in);
         Produto produto = null;	  //Inicializa o produto como null, para que o objeto só seja criado no switch, de acordo com a opção 1 ou 2;
         						  //Ou seja, declara mas não cria nada;
 
